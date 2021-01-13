@@ -74,9 +74,9 @@ function(){
         // 1 buusan tul niit score iig tootsoj uguud togloomiig duusganaa.
 
         //  Ene toglogchiin tsugluulsan buh onoog 0 bolgono.
-
-        if (diceNumber === 1) {
-            alert("1 ийн дугаартай шоо буучихлаа таны энэ хүртэл цуглуулсан нийт оноо " + score + " байлаа.");
+          
+         if (diceNumber === 1) {
+           alert("1 ийн дугаартай шоо буучихлаа таны энэ хүртэл цуглуулсан нийт оноо " + score + " байлаа.");
         } else {
             alert("Тоглоом дууссан байна. NEW GAME товчийг дарж шинээр эхлэнэ үү");
         }
@@ -87,7 +87,7 @@ function(){
 
         // Shoog tur alga bolgono.
         }
-        }
+    }  
     }
 );
 
